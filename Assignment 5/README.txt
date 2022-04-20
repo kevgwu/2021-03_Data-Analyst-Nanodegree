@@ -1,0 +1,1 @@
+In this assignment, I looked at a flight dataset from 2008. I had to explore the dataset using univariage, bivariate, and multivariate exploration methods to look for underlying patterns. The results of this analysis can be viewed as slide decks produced in Jupyter.

@@ -1,0 +1,1 @@
+This assignment consisted of merging multiple datasets, cleaning the data, and analyzing the datasets for correlation between democracy score and other features. I also looked at the life expectancy distribution. This was done in a Jupyter notebook.

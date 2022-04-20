@@ -1,0 +1,1 @@
+In this assignment, data was acquired from multiple sources including Twitter API & Udacity's server via code. Data was cleaned to address quality and tidiness issues. Data was then analyzed for simple trends.

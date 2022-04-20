@@ -1,0 +1,1 @@
+These folders are for each of the assignments I completed in March 2021 in Udacity's Data Analyst Nanodegree Program. Each of the folders has a read-me file describing roughly what the assignment was about and what it entailed. Code can be viewed in the .html files, which are produced from the .ipynb files. Some folders will also have simple reports as part of the submission.

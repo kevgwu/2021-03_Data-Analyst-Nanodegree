@@ -1,0 +1,1 @@
+This assignment consisted of cleaning a dataset for AB Testing. AB testing was conducted with simple statistics, calling a z-value and p-value manually. And finally using a logistic regression model and osberving the coefficients and p-values.
